@@ -1,0 +1,5 @@
+"18-error-string.cl", line 2:21, Lexical error: String constant too long
+"18-error-string.cl", line 3:21, Lexical error: String contains null character
+"18-error-string.cl", line 4:29, Lexical error: Unterminated string constant
+"18-error-string.cl", line 6:20, Lexical error: EOF in string constant
+Compilation halted

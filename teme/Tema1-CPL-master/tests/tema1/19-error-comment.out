@@ -1,0 +1,6 @@
+"19-error-comment.cl", line 2:5, Syntax error: mismatched input '*' expecting {ID, '}'}
+EOF in comment
+program
+  class
+    A
+Compilation halted
